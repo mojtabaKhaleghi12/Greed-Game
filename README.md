@@ -22,7 +22,7 @@ This project is a graphical version of the **Greed** game implemented using **Ja
 - Score is displayed at the top of the window.
 - Movement is controlled with **W, A, S, D keys**.
 - Game End:
-  - **Win:** When score ≥ 5.
+  - **Win:** When score ≥ 100.
   - **Lose:** When the player is stuck and cannot move.
 
 ---
